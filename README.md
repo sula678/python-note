@@ -1,11 +1,11 @@
 python-note
 ===========
 
-basic -<br/>
-  一般python練習<br/>
+basic&nbsp;-<br/>
+&nbsp;&nbsp;一般python練習<br/>
 <br/>
-hadoop -<br/>
-  hadoop練習<br/>
+hadoop&nbsp;-<br/>
+&nbsp;&nbsp;hadoop練習<br/>
 <br/>
-machiine_learning -<br/>
-  machiine learningl練習<br/>
+machiine_learning&nbsp;-<br/>
+&nbsp;&nbsp;machiine&nbsp;learningl練習<br/>
